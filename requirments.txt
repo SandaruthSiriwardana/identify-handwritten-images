@@ -2,3 +2,4 @@ keras
 sklearn
 pip install --upgrade pip
 pip install --upgrade tensorflow
+opencv-python
